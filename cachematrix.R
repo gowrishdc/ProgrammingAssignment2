@@ -16,7 +16,9 @@
 ##
 
 
-## Convert an input matrix into an object that stores the matrix and caches the inverse of the matrix as a "cached Matrix"
+## Convert an input matrix into an object 
+##     that stores the matrix and 
+##     caches the inverse of the matrix as a "cached Matrix"
 ##
 ## input
 ## @param x - input matrix
